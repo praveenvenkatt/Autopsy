@@ -6,15 +6,15 @@ Name : Praveen V
 
 This experiment aims to demonstrate:
 
-- Creating a Virtual Hard Disk (VHD).
+- Create a **Disk Partition**.  
 
 - Adding, deleting, and recovering files using Autopsy.
 
 - Understanding the forensic recovery of deleted data.
 
-- Removing the virtual disk after the process.
+- Removing the disk partition after the process.
 
-## Disk Partition
+## Step1: Creating a Disk Partition
 ## 1.Open File Manager
 
 - Right-click This PC → Click Show More Options.
@@ -57,9 +57,9 @@ This experiment aims to demonstrate:
   ![Screenshot 2025-03-19 221000](https://github.com/user-attachments/assets/9b603c47-c7da-4012-9b35-3953cfeea86c)
 
   
-## Adding and Deleting Files for Recovery
+## Step2: Adding and Deleting Files for Recovery
 
-## 1. Copy Files to the Virtual Drive:
+## 1. Copy Files to the Partition:
 
 - Open File Explorer → Navigate to the newly created drive (C: or D:).
 
@@ -74,7 +74,7 @@ This experiment aims to demonstrate:
 
 - Empty the Recycle Bin to permanently remove them.
 
-## Recovering Deleted Files Using Autopsy
+## Step3: Recovering Deleted Files Using Autopsy
 
 ## 1.Launch Autopsy and Set Up a New Case:
 
@@ -91,7 +91,7 @@ This experiment aims to demonstrate:
 
 
 
-## 2.Add the Virtual Disk as Evidence:
+## 2.Add the Partition as Evidence:
 
 - Click Add Data Source → Choose Host.
    ![Screenshot 2025-03-19 223322](https://github.com/user-attachments/assets/3ad0612b-655b-406c-ab63-95912238b112)
