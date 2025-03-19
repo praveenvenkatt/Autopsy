@@ -127,6 +127,35 @@ This experiment aims to demonstrate:
   ![Screenshot 2025-03-19 225556](https://github.com/user-attachments/assets/4d7bd91f-547f-4bdc-86c3-a695ab4848ad)
 - Check the disk.
   ![{0A179D61-BB59-4CE5-AF4D-6A7CF218EC6E}](https://github.com/user-attachments/assets/1d889ef5-1453-4ede-90a4-78087fa8d755)
+  
+## Step 4: Removing the Disk Partition (Optional Cleanup)
+
+## 1.Using Disk Management:
+
+- Open Disk Management (Win + X → Disk Management).
+
+- Identify the created partition.
+
+- Right-click on the partition → Select Delete Volume.
+
+## 2.Alternative Method via Settings:
+
+- Click the Start button → Go to Settings.
+
+- Select System → Click Storage.
+
+- Click Advanced Storage Settings → Select Disks & Volumes.
+
+- View the list of available disks.
+
+- Select the created partition → Click Properties.
+
+- Click the Delete option to remove it.
+
+## Result:
+
+This experiment successfully demonstrates the creation of a disk partition, the deletion and recovery of files using Autopsy, and the proper removal of the partition after completing the process.
+
 
   
 
