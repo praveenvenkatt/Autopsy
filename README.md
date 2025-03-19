@@ -57,6 +57,18 @@ This experiment aims to demonstrate:
   ![Screenshot 2025-03-19 221000](https://github.com/user-attachments/assets/9b603c47-c7da-4012-9b35-3953cfeea86c)
 
   
+## Adding and Deleting Files for Recovery
 
+1. Copy Files to the Virtual Drive:
+
+- Open File Explorer → Navigate to the newly created drive (C: or D:).
+
+- Transfer images or files into it.
+
+2. Delete Files:
+
+- Select one or more files → Press Delete.
+
+- Empty the Recycle Bin to permanently remove them.
 
 
