@@ -1,3 +1,5 @@
+# File Recovery using Autopsy
+
 ```
 Register Number : 212222040121
 Name : Praveen V
@@ -53,7 +55,7 @@ This experiment aims to demonstrate:
 - Click Finish to complete the process.
   ![Screenshot 2025-03-19 220935](https://github.com/user-attachments/assets/f06a24e8-e373-4271-94bc-87cac73f6e27)
   
-- The new Virtual Disk is created as **PRAVEEN V**.
+- The new Disk Partition is created as **PRAVEEN V**.
   ![Screenshot 2025-03-19 221000](https://github.com/user-attachments/assets/9b603c47-c7da-4012-9b35-3953cfeea86c)
 
   
