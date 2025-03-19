@@ -14,7 +14,7 @@ This experiment aims to demonstrate:
 
 - Removing the virtual disk after the process.
 
-## Virtual Disk Creation
+## Disk Partition
 ## 1.Open File Manager
 
 - Right-click This PC → Click Show More Options.
