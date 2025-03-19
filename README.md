@@ -13,3 +13,5 @@ This experiment aims to demonstrate:
 - Understanding the forensic recovery of deleted data.
 
 - Removing the virtual disk after the process.
+
+## Virtual Disk Creation
