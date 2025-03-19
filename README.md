@@ -40,7 +40,7 @@ This experiment aims to demonstrate:
   ![Screenshot 2025-03-19 220808](https://github.com/user-attachments/assets/6fdef27e-c4b2-43b6-b7e7-a280e377d7e7)
 
 
-## Create a New Volume
+## 4.Create a New Volume
 
 - Right-click on the newly unallocated space → Select New Simple Volume.
   ![Screenshot 2025-03-19 220859](https://github.com/user-attachments/assets/f6eb66bd-7167-4091-8504-5e859e6c995a)
@@ -59,13 +59,13 @@ This experiment aims to demonstrate:
   
 ## Adding and Deleting Files for Recovery
 
-1. Copy Files to the Virtual Drive:
+## 1. Copy Files to the Virtual Drive:
 
 - Open File Explorer → Navigate to the newly created drive (C: or D:).
 
 - Transfer images or files into it.
 
-2. Delete Files:
+## 2. Delete Files:
 
 - Select one or more files → Press Delete.
 
