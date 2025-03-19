@@ -64,6 +64,8 @@ This experiment aims to demonstrate:
 - Open File Explorer → Navigate to the newly created drive (C: or D:).
 
 - Transfer images or files into it.
+  ![{F9169CC3-7F17-4793-8E07-BD6371709CBC}](https://github.com/user-attachments/assets/86d8d159-08a8-4945-ba9c-42cd494e05fe)
+
 
 ## 2. Delete Files:
 
