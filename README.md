@@ -39,7 +39,7 @@ This experiment aims to demonstrate:
 
 - Empty the Recycle Bin to permanently remove them.
 
-## Step2: Recovering Deleted Files Using Autopsy
+## Step3: Recovering Deleted Files Using Autopsy
 
 ## 1.Launch Autopsy and Set Up a New Case:
 
